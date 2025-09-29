@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Recoding Knowledge'
+project = 'Notes of Healer'
 copyright = '2025, Healer'
 author = 'Healer'
 release = '0.1.0-rc'
