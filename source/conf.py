@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "Healer's Recoding Knowledges"
+project = 'Recoding Knowledge'
 copyright = '2025, Healer'
 author = 'Healer'
 release = '0.1.0-rc'
@@ -17,7 +17,7 @@ release = '0.1.0-rc'
 extensions = []
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = []
 
 
 
