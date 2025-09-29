@@ -19,7 +19,7 @@ jobs:
         uses: abatilo/actions-poetry@v2
 
       - name: Install dependencies
-        run: poetry install --with docs
+        run: poetry install -vvv
       
       - name: Build HTML
         run: poetry run sphinx-build -M HTML source build
