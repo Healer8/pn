@@ -1,4 +1,4 @@
-# Healer's Recoding Knowledges
+# Personal Notes
 
 Use `poetry run sphinx-quickstart` command to generate this sphinx projec.
 
