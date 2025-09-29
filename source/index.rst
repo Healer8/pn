@@ -20,4 +20,5 @@ documentation for details.
    english.rst
    linux.rst
    gitlab.rst
+   sphinx.rst
 
