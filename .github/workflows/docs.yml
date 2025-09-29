@@ -22,7 +22,7 @@ jobs:
         run: poetry install -vvv
       
       - name: Build HTML
-        run: poetry run sphinx-build -M HTML source build
+        run: poetry run sphinx-build -M html source build
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
