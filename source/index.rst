@@ -14,4 +14,10 @@ documentation for details.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :numbered:
+
+   README.md
+   english.rst
+   linux.rst
+   gitlab.rst
 
